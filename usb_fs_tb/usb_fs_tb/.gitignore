@@ -1,0 +1,12 @@
+sim/work/
+sim/obj_smoke/
+sim/xsim.dir/
+sim/*.log
+sim/log_*.txt
+sim/*.ucdb
+sim/transcript
+sim/vsim.wlf
+sim/modelsim.ini
+sim/cov_report.txt
+sim/run_info.txt
+__pycache__/
